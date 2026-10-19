@@ -2,6 +2,12 @@
 
 [简体中文](#简体中文) | [English](#english)
 
+[![GitHub stars](https://img.shields.io/github/stars/capwitf/renewable-dispatch-data?style=flat)](https://github.com/capwitf/renewable-dispatch-data/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/capwitf/renewable-dispatch-data?style=flat)](https://github.com/capwitf/renewable-dispatch-data/network/members)
+[![GitHub issues](https://img.shields.io/github/issues/capwitf/renewable-dispatch-data?style=flat)](https://github.com/capwitf/renewable-dispatch-data/issues)
+[![Code License: MIT](https://img.shields.io/badge/code%20license-MIT-green.svg)](LICENSE)
+[![Docs: CC BY 4.0](https://img.shields.io/badge/docs%20license-CC%20BY%204.0-lightgrey.svg)](LICENSE-DOCUMENTATION)
+
 可复现的风电、光伏调度数据来源、核验报告、示例时序与读取工具。数据集、统计口径和许可边界分别说明，避免把资源数据、实际出力与预测值混为一谈。
 
 Reproducible sources, validation reports, sample time series, and readers for wind and solar dispatch research. Dataset provenance, statistical definitions, and license boundaries are documented separately.
